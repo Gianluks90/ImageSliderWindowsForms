@@ -1,0 +1,9 @@
+C:\Users\g.marino\Desktop\ImageSlider\ImageSlider\bin\Debug\ImageSlider.exe.config
+C:\Users\g.marino\Desktop\ImageSlider\ImageSlider\bin\Debug\ImageSlider.exe
+C:\Users\g.marino\Desktop\ImageSlider\ImageSlider\bin\Debug\ImageSlider.pdb
+C:\Users\g.marino\Desktop\ImageSlider\ImageSlider\obj\Debug\ImageSlider.csprojResolveAssemblyReference.cache
+C:\Users\g.marino\Desktop\ImageSlider\ImageSlider\obj\Debug\ImageSlider.Form1.resources
+C:\Users\g.marino\Desktop\ImageSlider\ImageSlider\obj\Debug\ImageSlider.Properties.Resources.resources
+C:\Users\g.marino\Desktop\ImageSlider\ImageSlider\obj\Debug\ImageSlider.csproj.GenerateResource.Cache
+C:\Users\g.marino\Desktop\ImageSlider\ImageSlider\obj\Debug\ImageSlider.exe
+C:\Users\g.marino\Desktop\ImageSlider\ImageSlider\obj\Debug\ImageSlider.pdb
